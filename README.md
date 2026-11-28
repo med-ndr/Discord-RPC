@@ -14,3 +14,4 @@ A Python script using `pypresence` to show your Arch Linux status and running ke
 
 ## Run
 `python3 arch_rpc.py`
+
